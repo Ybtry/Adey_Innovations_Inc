@@ -69,3 +69,4 @@ models/
 # Log files
 *.log
 Data/
+*.csv
